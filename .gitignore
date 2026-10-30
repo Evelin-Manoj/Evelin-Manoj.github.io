@@ -1,0 +1,7 @@
+# Claude desktop app session config (local preview only)
+.claude/
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+*.log
